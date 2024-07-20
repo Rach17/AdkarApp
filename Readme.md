@@ -6,5 +6,5 @@ A cross-platform desktop app that shows adhkār, Quran verses, and advice as not
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/adkar-notifier.git
-   cd adkar-notifier
+   git clone https://github.com/Rach17/AdkarApp
+   cd AdkarApp
